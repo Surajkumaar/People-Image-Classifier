@@ -1,0 +1,12 @@
+{
+  "name": "project-bolt-sb1-pk8qyqdr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
